@@ -1,6 +1,6 @@
 # Panzadabira-
 
-#👋 Hello, I'm Jonathan Barenco (Panzadabira)
+👋 Hello, I'm Jonathan Barenco (Panzadabira)
 
 Indie game developer, and founder of Panza Labs. I build tools that remove the friction from game development, specializing in LLM-driven architectural analysis and automated CI/CD workflows.
 
