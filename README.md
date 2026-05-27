@@ -30,10 +30,10 @@ Architecture: Static Analysis, Context Compression for LLMs (Eco-Scan protocol).
 
 🔗 Connect & Explore
 
-🌐 Itch.io Portfolio – My dev log and game experiments.
+ Itch.io Portfolio – My dev log and game experiments. https://panzadabira.itch.io/
 
-📦 Unity Asset Store – Get professional DevTools.
+ Unity Asset Store – Get professional DevTools. waiting for approval 
 
-📧 Collaboration: Always open to discuss architecture, military/civilian sports training, or gamedev pipelines.
+ Collaboration: Always open to discuss architecture, gameplay, new learning way, or gamedev pipelines.
 
 "Just have fun!"
