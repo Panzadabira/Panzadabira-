@@ -42,7 +42,7 @@ Architecture: Static Analysis, Context Compression for LLMs (Eco-Scan protocol).
  
  youtube channel - https://www.youtube.com/@Panzadabira
 
- Unity Asset Store – Get professional DevTools. waiting for approval 
+ Unity Asset Store – https://assetstore.unity.com/publishers/146250
 
  Collaboration: Always open to discuss architecture, gameplay, new learning way, or gamedev pipelines.
 
