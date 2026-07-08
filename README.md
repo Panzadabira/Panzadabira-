@@ -1,3 +1,8 @@
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=opsgenie)
+
 # Panzadabira-
 
 👋 Hello, I'm Jonathan Barenco (Panzadabira)
