@@ -5,13 +5,13 @@
 
 # Panzadabira-
 
-👋 Hello, I'm Jonathan Barenco (Panzadabira)
+ Hello, I'm Jonathan Barenco (Panzadabira)
 
 Indie game developer, and founder of Panza Labs. I build tools that remove the friction from game development, specializing in LLM-driven architectural analysis and automated CI/CD workflows.
 
 
 
-🧬 The Panza Labs Philosophy
+ The Panza Labs Philosophy
 
 Panza Labs was born in August 2025 from a simple, personal necessity. Before I wrote a single line of code, I was just a gamer who lived for complex mechanics and tabletop strategy. When I finally made the leap to become a solo indie developer, I quickly hit the classic wall: I was spending more time battling messy architecture, broken workflows, and repetitive tasks than actually designing my games.
 
@@ -21,7 +21,7 @@ Game development should be about creativity. Let the tools handle the rest.
 
 
 
-🛠️ Flagship Product: PanzaScope
+ Flagship Product: PanzaScope
 
 PanzaScope is a universal polyglot static analysis engine designed to perform zero-latency architectural mapping of complex codebases.
 
@@ -31,7 +31,7 @@ PanzaScope (Unity Extension): Native C#/UI Toolkit integration for professional 
 
 
 
-⚡ Tech Stack & Focus
+ Tech Stack & Focus
 
 Gamedev: Unity, C#, UI Toolkit, ScriptableObject-driven architecture.
 
@@ -41,7 +41,7 @@ Architecture: Static Analysis, Context Compression for LLMs (Eco-Scan protocol).
 
 
 
-🔗 Connect & Explore
+ Connect & Explore
 
  Itch.io Portfolio – My dev log and game experiments. https://panzadabira.itch.io/
  
